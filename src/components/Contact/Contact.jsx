@@ -8,8 +8,9 @@ export const Contact = () => {
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
         <h2>Contact</h2>
-        <p>Feel free to reach out!</p>
-      </div>
+        <p>Feel free to reach out!</p>        
+      </div>       
+               
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
@@ -26,7 +27,10 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <a href="https://github.com/gugulothsaritha96">github.com/saritha</a>
         </li>
-      </ul>
-    </footer>
+      </ul> 
+      <div className={styles.footer}>
+      <p>All rights reserved by Saritha Guguloth &copy; {new Date().getFullYear()}</p>
+      </div>       
+    </footer>      
   );
 };
