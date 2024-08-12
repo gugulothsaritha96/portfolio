@@ -1,0 +1,59 @@
+[
+  {
+    "role": "Sr. Full stack Java Developer",
+    "organisation": "Western Union",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": ["Optimized React performance using with memoization and lazy loading.", "Implemented SSR with Next.js",
+    "Built Spring Boot microservices with Kafka, managed state with Redux,","Deployed on AWS using Jenkins CI/CD."],
+    "imageSrc": "history/westernunion.png"
+  },
+  {
+    "role": "Full Stack Java Developer",
+    "organisation": "Equinix",
+    "startDate": "July, 2021",
+    "endDate": "Dec, 2022",
+    "experiences": ["Developed web applications using Angular and Java 8, focusing on microservices with Spring Boot.", "Implemented and tested SPAs with Angular, using Karma, Jasmine, and Protractor.",
+    "Migrated databases from Oracle to PostgreSQL and managed AWS cloud infrastructure.","Automated deployments with Jenkins and contributed to REST service development."],
+    "imageSrc": "history/equinix.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "American Momentum Bank",
+    "startDate": "Feb, 2020",
+    "endDate": "Jun, 2021",
+    "experiences": [
+      "Developed a ReactJS SPA with RESTful APIs and Spring MVC for backend logic.",
+      "Implemented Spring Security for authentication and authorization.",
+      "Integrated third-party payment gateways and managed data with Hibernate and MySQL.",
+      "Automated builds with Jenkins, and performed unit testing with JUnit."
+    ],
+    "imageSrc": "history/americanmomentumbank.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Honeywell",
+    "startDate": "Mar, 2018",
+    "endDate": "Jan, 2020",
+    "experiences": [
+      "Developed Java 1.8 applications with Lambda expressions and design patterns.",
+      "Built microservices with Spring Boot and Hibernate, managing Oracle DB transactions.",
+      "Managed security and storage with Azure Key Vault and Blob Storage.",
+      "Used Maven for builds, deployed EJBs on JBoss, and implemented SOAP web services."
+    ],
+    "imageSrc": "history/honeywell.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Voyager",
+    "startDate": "May, 2015",
+    "endDate": "Feb, 2018",
+    "experiences": [
+      " Developed web interfaces with JSP, Servlets, and integrated ReactJS with backend APIs.",
+      "Designed microservices using Java, Spring Boot, and Hibernate, with MySQL and Tomcat.",
+      "Conducted code reviews, testing, and ensured accessibility in an Agile environment.",
+      "Collaborated with teams, documented practices, and managed deployment and disaster recovery."
+    ],
+    "imageSrc": "history/voyager.png"
+  }
+]

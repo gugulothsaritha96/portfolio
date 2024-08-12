@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TODO-List",
+    "imageSrc": "projects/project.png",
+    "description": "This project offers a user-friendly platform for managing to-do tasks. Users can easily create, edit, and delete tasks, as well as mark them as completed. The platform also supports user authentication, allowing individuals to sign up and log in to track their tasks on a personal basis.",
+    "skills": ["Java 17+", "Spring Boot 3+", "Spring Data JPA (Hibernate)", "Maven", "IntelliJ IDEA", "MySQL database", "Postman"],
+    "demo": "",
+    "source": "https://github.com/gugulothsaritha96/Todo_List"
+  },
+  {
+    "title": "E-Commerce",
+    "imageSrc": "projects/project.png",
+    "description": "Saritha_ecommerce-krishnadeals is an eCommerce platform designed to offer a seamless shopping experience across various devices, especially mobile devices. The focus on responsiveness ensures that users can navigate the website comfortably, whether they're using a smartphone, tablet, or desktop.The website is built with a responsive design philosophy, which means the layout adjusts dynamically accordingly.",
+    "skills": ["HTML", "Express", "Node", "CSS","Java script","Json"],
+    "demo": "https://gugulothsaritha96.github.io/saritha-ecommerce-krishnadeals/",
+    "source": "https://github.com/gugulothsaritha96/saritha-ecommerce-krishnadeals"
+  },
+  {
+    "title": "Stocks",
+    "imageSrc": "projects/project.png",
+    "description": "A robust, interactive web application has been created to offer users a comprehensive paper trading simulation experience. This platform features real-time fundamental and sentiment analysis, empowering investors to assess companies or stocks with precision and make well-informed decisions.",
+    "skills": ["Java", "Java Script", "Node", "CSS", "HTML","RESTAPI","Spring Boot 3+","MySQL database", "Maven", "Json"],
+    "demo": "https://gugulothsaritha96.github.io/stocks-lab/",
+    "source": "https://github.com/gugulothsaritha96/stocks-lab.git"
+  }
+]
